@@ -1,0 +1,17 @@
+.service-left img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.service-icon {
+    flex-shrink: 0;
+}
+
+.service-right {
+    background-color: #fff8f4;
+}
+
+.service-2-bg {
+    background-color: #f0ffe9;
+}

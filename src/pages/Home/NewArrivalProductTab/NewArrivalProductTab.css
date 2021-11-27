@@ -1,0 +1,35 @@
+.react-tabs__tab-list {
+    border: none;
+    text-align: end;
+}
+
+.react-tabs__tab {
+    border: none;
+    background: transparent;
+    text-transform: uppercase;
+    font-weight: 500;
+    opacity: .6;
+    padding: 0 !important;
+    margin: 6px 12px;
+}
+
+.react-tabs__tab--selected {
+    opacity: 1;
+    border-bottom: 2px solid;
+    padding: 0 !important
+}
+
+/* product list */
+
+.pro-tab-sec-title {
+    position: absolute;
+}
+
+.photo-pro img {
+    width: 100%;
+    height: 100%;
+}
+
+.new-arrival-pro {
+    padding: 50px 0;
+}
